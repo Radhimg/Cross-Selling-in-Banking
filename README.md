@@ -7,10 +7,10 @@ The project involves generating synthetic data, augmenting the data, preprocessi
 
 ## Project Workflow
 
-1. **Generate Data**: Synthetic customer data is generated using numpy and pandas.
-2. **Data Augmentation**: The initial dataset is augmented to create a larger dataset.
-3. **Data Preprocessing**: Categorical variables are converted into numerical representations.
-4. **Model Training**: Multiple machine learning models are trained using GridSearchCV to find the best hyperparameters.
+1. **Generating the data**: Synthetic customer data is generated using numpy and pandas.
+2. **Data augmentation**: The initial dataset is augmented to create a larger dataset.
+3. **Data preprocessing**: Categorical variables are converted into numerical representations.
+4. **Model training**: Multiple machine learning models are trained using GridSearchCV to find the best hyperparameters.
 5. **Evaluation**: Models are evaluated based on accuracy and other metrics.
 6. **Prediction**: The best model is used to predict new customer preferences.
 
